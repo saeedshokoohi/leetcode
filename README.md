@@ -1,2 +1,2 @@
 # leetcode
-I put my daily Leetcode solutions on github 
+I am sharing my daily Leetcode solutions on current repository 
