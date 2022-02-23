@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+    <Participants/>
+    <WorkflowProcesses>
+        <Process name="??? ????? ????????" id="90c965bf-e0e5-40d1-aa19-77cf79beed18">
+            <Description>null</Description>
+            <Activities>
+                <Activity id="04ea223e-3851-484f-a86e-2855cf53f17d" name="??????" code="" actionType="null" actorSelectionMode="null">
+                    <Description></Description>
+                    <ActivityType type="TaskNode"/>
+                    <Geography parent="310b8c04-bd8b-4ec2-81ed-e3f9e1068669" style="symbol;image=../../scripts/slickflow/mxGraph/src/editor/images/symbols/wf-usertask.png;shadow=1;fontSize=15;">
+                        <Widget left="230" top="110" width="170" height="100"/>
+                    </Geography>
+                </Activity>
+                <Activity id="1e7ff666-8f09-45e9-98ae-26345c8c5aa7" name="??????" code="" actionType="null" actorSelectionMode="null">
+                    <Description></Description>
+                    <ActivityType type="TaskNode"/>
+                    <Geography parent="310b8c04-bd8b-4ec2-81ed-e3f9e1068669" style="symbol;image=../../scripts/slickflow/mxGraph/src/editor/images/symbols/wf-usertask.png">
+                        <Widget left="530" top="260" width="60" height="60"/>
+                    </Geography>
+                </Activity>
+            </Activities>
+            <Transitions>
+                <Transition id="34f560f0-e955-4c85-fa3b-8ee4a1272b5b" from="04ea223e-3851-484f-a86e-2855cf53f17d" to="1e7ff666-8f09-45e9-98ae-26345c8c5aa7" openFormMode="1">
+                    <Description>???</Description>
+                    <Receiver/>
+                    <Condition type="Expression">
+                        <ConditionText/>
+                    </Condition>
+                    <Geography parent="310b8c04-bd8b-4ec2-81ed-e3f9e1068669" style="fontColor=red;"/>
+                </Transition>
+                <Transition id="c9fb1ce4-28e1-4904-8ab6-188349b51503" from="04ea223e-3851-484f-a86e-2855cf53f17d" to="1e7ff666-8f09-45e9-98ae-26345c8c5aa7" openFormMode="1">
+                    <Description></Description>
+                    <Receiver/>
+                    <Condition/>
+                    <Geography parent="310b8c04-bd8b-4ec2-81ed-e3f9e1068669" style="straightEdge"/>
+                </Transition>
+            </Transitions>
+        </Process>
+    </WorkflowProcesses>
+    <Layout>
+        <Swimlanes/>
+    </Layout>
+</Package>
