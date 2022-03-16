@@ -9,3 +9,11 @@ i
 9src/test/java/problems/CopyListWithRandomPointerTest.java,6\7\67b7d3e2278bbc32905558bc1cf95074608bbff7
 [
 +src/problems/CopyListWithRandomPointer.java,a\c\acdce75e353e4933a3a5c9113db0959ea70d4b24
+P
+ src/problems/RotateLinkList.java,7\a\7a79cb1fa73baa57d903f5c9cae74811670213f1
+^
+.src/test/java/problems/RotateLinkListTest.java,c\4\c436a43509bd10d706402d0b4601dcb83f00583b
+N
+src/problems/SimplifyPath.java,3\3\33d39e41e9140f1afc196452f166455a65591e6a
+\
+,src/test/java/problems/SimplifyPathTest.java,f\d\fd8bbdf306f86581c1ac26dc1f68c53e34024e48
