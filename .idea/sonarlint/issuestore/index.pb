@@ -17,3 +17,7 @@ N
 src/problems/SimplifyPath.java,3\3\33d39e41e9140f1afc196452f166455a65591e6a
 \
 ,src/test/java/problems/SimplifyPathTest.java,f\d\fd8bbdf306f86581c1ac26dc1f68c53e34024e48
+c
+3src/problems/MinimumRemoveMakeValidParentheses.java,e\6\e637441b3216d4c5b048aaa07b3f68eb756a639d
+q
+Asrc/test/java/problems/MinimumRemoveMakeValidParenthesesTest.java,f\1\f14c3dc3514c8f2f0ee9419ea61615d4650a51a9
