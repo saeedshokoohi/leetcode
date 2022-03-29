@@ -21,3 +21,9 @@ c
 3src/problems/MinimumRemoveMakeValidParentheses.java,e\6\e637441b3216d4c5b048aaa07b3f68eb756a639d
 q
 Asrc/test/java/problems/MinimumRemoveMakeValidParenthesesTest.java,f\1\f14c3dc3514c8f2f0ee9419ea61615d4650a51a9
+\
+,src/test/java/problems/BinarySearchTest.java,c\9\c9266ae66e16aa8daa5917daba8f2d474eb25615
+b
+2src/test/java/problems/ScoreOfParenthesesTest.java,8\1\8159dfdb9f68b7b7d0d5ec592f1de953debabe29
+G
+src/problems/RNode.java,1\f\1f140cc89b83cf76c1404313a8375bdfbdd5914c

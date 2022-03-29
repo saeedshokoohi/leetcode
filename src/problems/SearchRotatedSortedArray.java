@@ -33,6 +33,8 @@ public class SearchRotatedSortedArray {
     public boolean search(int[] nums, int target) {
         int index = findPivotIndex( nums, target);
         if (target == nums[index]) return true;
+        if(target<nums[index] && target>nums[nums.length-1])return binarySearch(0, index, nums, target)!=-1;
+        if(target>nums[index]) return binarySearch(index+1>=nums.length?nums.length-1:index+1, nums.length - 1, nums, target) != -1;
         return binarySearch(0, index, nums, target) != -1 || binarySearch(index+1>=nums.length?nums.length-1:index+1, nums.length - 1, nums, target) != -1;
     }
 
